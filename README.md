@@ -1,4 +1,5 @@
-# deepfovia
+# DeepFovia 
+![alt text](https://github.com/projectyumo/deepfovia/blob/master/foveated_vision.PNG)
 
 # Image foveation done with https://github.com/ouyangzhibo/Image_Foveation_Python
 # Video downloaded with youtube-dl -> pip install youtube-dl
